@@ -1,17 +1,26 @@
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Emeka! 👋
 
-(https://github.com/user-attachments/assets/b5ad5822-83ba-4baa-89b0-7dec0e11fa35)
-name.png)
+![@themeykar](https://github.com/user-attachments/assets/8b42767d-80a0-4a4d-9e0e-6983caead496)
 
 ## About Me 🚀
 
  I'm a passionate backend developer currently learning through the ALX Software Engineering Program.
-  What drives me is the power of technology to solve real-world problems through well-structured systems and seamless integrations.
+ What drives me is the power of technology to solve real-world problems through well-structured systems and seamless integrations.
 
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: Backend Web Development
+- 🔭 I enjoy building: Robust and scalable REST APIs, Custom backend systems
+- 🌍 Languages: Python
+- ⚡ Fun fact: I'm an avid MMA fan 
+
+## My Skills 🧠
+
+![Python]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
+![Django]("https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white")
+![PostgreSQL]("https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/orjie007)
+- **[Twitter]**(https://x.com/themeykar_?s=21)
