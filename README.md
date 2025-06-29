@@ -17,8 +17,8 @@
 ## My Skills 🧠
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django]("https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white")
-![PostgreSQL]("https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
+![Django](https://images.app.goo.gl/paXP82SExGBn8DEh9)
+![PostgreSQL](https://images.app.goo.gl/cYRZsh5SYrdRqvrz9)
 
 ## Get in Touch 📬
 
