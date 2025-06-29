@@ -16,11 +16,11 @@
 
 ## My Skills 🧠
 
-![Python]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django]("https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white")
 ![PostgreSQL]("https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/orjie007)
-- **[Twitter]**(https://x.com/themeykar_?s=21)
+- [LinkedIn](https://www.linkedin.com/in/orjie007)
+- [Twitter](https://x.com/themeykar_?s=21)
