@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Your Name]! 👋
 
-[image](https://github.com/user-attachments/assets/b5ad5822-83ba-4baa-89b0-7dec0e11fa35)
+(https://github.com/user-attachments/assets/b5ad5822-83ba-4baa-89b0-7dec0e11fa35)
 name.png)
 
 ## About Me 🚀
